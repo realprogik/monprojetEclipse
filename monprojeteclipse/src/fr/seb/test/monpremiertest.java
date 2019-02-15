@@ -11,6 +11,7 @@ public class monpremiertest {
 		}
 		else {
 			System.out.println("sale nul ! ");
+			System.out.println("Vive COLOMBEL ! ");
 			return false;
 		}
 	}
